@@ -1,1 +1,2 @@
-# Interactive-Tic-Tac-Toe
+# Interactive Tic-Tac-Toe
+- Using React framework
